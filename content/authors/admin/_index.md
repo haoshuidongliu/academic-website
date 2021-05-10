@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hao Shen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Operations Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: School of Business, Renmin University of China
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Supply Chain Management
+- Data-Driven Decision-Making
+- Optimization Theory and Applications
 
 # Education to show in About widget
 education:
