@@ -70,4 +70,4 @@ highlight_name: false
 
 I am an assistant professor in Department of Management Science and Engineering at School of Business, Renmin University of China. 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
