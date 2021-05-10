@@ -11,10 +11,11 @@ role: Assistant Professor of Operations Management
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: School of Business, Renmin University of China
-  url: https://www.stanford.edu/
+  url: http://en.rmbs.ruc.edu.cn/show-77-997-1.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
+# My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -25,15 +26,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Management Science and Engineering
+    institution: Tsinghua University
+    year: 2019
+  - course: BEng in Engineering Mechanics (Tsien Excellence in Education Program)
+    institution: Tsinghua University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
