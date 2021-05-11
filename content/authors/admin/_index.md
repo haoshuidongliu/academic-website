@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Hao Shen
+title: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Operations Management
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Business, Renmin University of China
-  url: http://en.rmbs.ruc.edu.cn/show-77-997-1.html
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -19,19 +19,12 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Supply Chain Management
-- Data-Driven Decision-Making
-- Optimization Theory and Applications
+- 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Management Science and Engineering
-    institution: Tsinghua University
-    year: 2019
-  - course: BEng in Engineering Mechanics (Tsien Excellence in Education Program)
-    institution: Tsinghua University
-    year: 2014
+  - 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +33,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:shenhao@rmbs.ruc.edu.cn"
+  link: 
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=MZDIpeoAAAAJ&hl=zh-CN
+  link: 
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -68,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-I am an assistant professor in Department of Management Science and Engineering at School of Business, Renmin University of China. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
